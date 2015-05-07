@@ -15,7 +15,7 @@
 // @grant       GM_setValue
 // @grant       GM_addStyle
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js
-// @resource    copiaImg https://i.imgur.com/pBYP5Ad.png
+// @resource    copiaImg http://i.imgur.com/pBYP5Ad.png
 // @homepageURL https://gdplus.github.io/
 // @updateURL   https://gdplus.github.io/releases/gdplus.meta.js
 // @downloadURL https://gdplus.github.io/releases/gdplus.user.js
