@@ -5,7 +5,7 @@
 // @include     https://drive.google.com/*
 // @copyright   XOR
 // @author      XOR
-// @version     2.1.1
+// @version     2.1.2
 // @license     MIT License (Expat)
 // @grant       unsafeWindow
 // @grant       GM_xmlhttpRequest
